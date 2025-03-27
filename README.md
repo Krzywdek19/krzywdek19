@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**Krzywdek19/krzywdek19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Applied Computer Science student** at Bydgoszcz University of Science and Technology  
+💡 **20 years old** | Passionate about technology and coding  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack:
+🚀 **Backend:** Spring
+🌍 **Frontend:** HTML, CSS, React  
+💾 **Databases:** SQL  
+🛠️ **Tools:** Postman, Spring Boot, Maven  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me:
+[LinkedIn](https://pl.linkedin.com/in/jakub-krzywdzi%C5%84ski-a64642332?trk=people-guest_people_search-card) | [GitHub](github.com/Krzywdek19) | [Email](jkrzywdzinski19@wp.pl)
+
+💻 Constantly learning and working on new projects.
