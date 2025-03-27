@@ -7,7 +7,7 @@
 🚀 **Backend:** Spring
 🌍 **Frontend:** HTML, CSS, React  
 💾 **Databases:** SQL  
-🛠️ **Tools:** Postman, Spring Boot, Maven  
+🛠️ **Tools:** Postman, Spring Boot, Maven, GIT  
 
 ## 📫 Connect with Me:
 [LinkedIn](https://pl.linkedin.com/in/jakub-krzywdzi%C5%84ski-a64642332?trk=people-guest_people_search-card) | [GitHub](github.com/Krzywdek19) | [Email](jkrzywdzinski19@wp.pl)
