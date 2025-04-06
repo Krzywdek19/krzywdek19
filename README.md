@@ -4,7 +4,7 @@
 💡 **20 years old** | Passionate about technology and coding  
 
 ## 🛠️ Tech Stack:
-🚀 **Backend:** Spring, Spring Cloud 
+🚀 **Backend:** Spring, Spring Cloud     
 🌍 **Frontend:** HTML, CSS, React    
 💾 **Databases:** SQL    
 🛠️ **Tools:** Postman, Spring Boot, Maven, GIT, RabbitMq    
