@@ -6,7 +6,7 @@
 ## 🛠️ Tech Stack:
 🚀 **Backend:** Spring, Spring Cloud     
 🌍 **Frontend:** HTML, CSS, React, Angular   
-💾 **Databases:** SQL    
+💾 **Databases:** SQL, Redis   
 🛠️ **Tools:** Postman, Spring Boot, Maven, GIT, RabbitMq    
 
 ## 📫 Connect with Me:
