@@ -1,7 +1,7 @@
 # 👋 Hi there!
 
 🎓 **Applied Computer Science student** at Bydgoszcz University of Science and Technology  
-💡 **20 years old** | Passionate about technology and coding  
+💡 **21 years old** | Passionate about technology and coding  
 
 ## 🛠️ Tech Stack:
 🚀 **Backend:** Spring, Spring Cloud     
