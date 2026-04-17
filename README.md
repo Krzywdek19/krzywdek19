@@ -1,15 +1,16 @@
-# 👋 Hi there!
+# Hi, I'm Jakub
 
-🎓 **Applied Computer Science student** at Bydgoszcz University of Science and Technology  
-💡 **21 years old** | Passionate about technology and coding  
+I'm an Applied Computer Science student at Bydgoszcz University of Science and Technology.
 
-## 🛠️ Tech Stack:
-🚀 **Backend:** Spring, Spring Cloud     
-🌍 **Frontend:** HTML, CSS, React, Angular   
-💾 **Databases:** SQL, Redis   
-🛠️ **Tools:** Postman, Spring Boot, Maven, GIT, RabbitMq    
+My main focus is backend development with Java and Spring.  
+I also build web applications with Angular and work with Kotlin in mobile projects using Jetpack Compose.
 
-## 📫 Connect with Me:
-[LinkedIn](https://pl.linkedin.com/in/jakub-krzywdzi%C5%84ski-a64642332?trk=people-guest_people_search-card) | [GitHub](github.com/Krzywdek19) 
+## Stack
+- Backend: Java, Spring
+- Frontend: TypeScript, Angular
+- Mobile: Kotlin, Jetpack Compose
+- Tools: Docker, Git, Maven, Postman
 
-💻 Constantly learning and working on new projects.
+## Links
+- LinkedIn: [Jakub Krzywdziński](https://pl.linkedin.com/in/jakub-krzywdzi%C5%84ski-a64642332?trk=people-guest_people_search-card)
+- Website: [exceptionhandled.pl](https://exceptionhandled.pl)
